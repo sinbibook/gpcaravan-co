@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-11-16T10:07:20.457366913Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-11-16T10:07:38.748725931Z",
     "templateType": "trip_h",
     "propertyId": "90682fb4-31c6-4821-8310-f30d008793a9",
     "homepageId": "01a16865-fe1e-77e4-8f04-3729c0a6a91b"
@@ -1140,14 +1140,16 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a16865-fe1e-77e4-8f04-3729c0a6a91b/main_about/1792752881571-avg29rufh1.webp",
                       "sortOrder": 0,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "4061f109-523c-4c88-9e82-3c00d147217b"
                     },
                     {
                       "id": "01a16866-344b-7338-89a1-55087d2ddd0f",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a16865-fe1e-77e4-8f04-3729c0a6a91b/main_about/1792752881783-gcw6rstdj6.webp",
                       "sortOrder": 1,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "4061f109-523c-4c88-9e82-3c00d147217b"
                     }
                   ],
                   "blockId": "4061f109-523c-4c88-9e82-3c00d147217b",
@@ -1161,14 +1163,16 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a16865-fe1e-77e4-8f04-3729c0a6a91b/main_about/1792752881837-phv497rr0v.webp",
                       "sortOrder": 2,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "b39538c1-96e1-46e4-a6fb-c84b4158d2aa"
                     },
                     {
                       "id": "01a16866-3462-7eae-971a-64c94ce67905",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a16865-fe1e-77e4-8f04-3729c0a6a91b/main_about/1792752881847-6qaq6qb1qn.webp",
                       "sortOrder": 3,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "b39538c1-96e1-46e4-a6fb-c84b4158d2aa"
                     }
                   ],
                   "blockId": "b39538c1-96e1-46e4-a6fb-c84b4158d2aa",
@@ -1182,14 +1186,16 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a16865-fe1e-77e4-8f04-3729c0a6a91b/main_about/1792752882067-84kd69snjx.webp",
                       "sortOrder": 4,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "f12669b1-82da-4584-a861-85c51a74da8e"
                     },
                     {
                       "id": "01a16866-3462-72dd-a245-7dc668b54e7b",
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a16865-fe1e-77e4-8f04-3729c0a6a91b/main_about/1792752882180-btkifnylz8.webp",
                       "sortOrder": 5,
                       "description": "",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "f12669b1-82da-4584-a861-85c51a74da8e"
                     }
                   ],
                   "blockId": "f12669b1-82da-4584-a861-85c51a74da8e",
@@ -1304,7 +1310,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a16865-fe1e-77e4-8f04-3729c0a6a91b/nearby_attractions_about/1792752882657-ti7qdnu29z.webp",
                       "sortOrder": 0,
                       "description": "위치 : 카라반에서 약 2.9km, 차량 약 7분 거리",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "a51ceb6a-a1bf-42ac-8e49-54a83d18b3d8"
                     }
                   ],
                   "blockId": "a51ceb6a-a1bf-42ac-8e49-54a83d18b3d8",
@@ -1318,7 +1325,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a16865-fe1e-77e4-8f04-3729c0a6a91b/nearby_attractions_about/1792752882725-2ymu49sny4.webp",
                       "sortOrder": 1,
                       "description": "위치 : 카라반에서 약 4.6km, 차량 약 9분 거리",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "d72d5a80-b13f-478c-86e4-1b50557cdc96"
                     }
                   ],
                   "blockId": "d72d5a80-b13f-478c-86e4-1b50557cdc96",
@@ -1332,7 +1340,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a16865-fe1e-77e4-8f04-3729c0a6a91b/nearby_attractions_about/1792752882801-flqlfkfdi7.webp",
                       "sortOrder": 2,
                       "description": "위치 : 카라반에서 약 5.9km, 차량 약 10분 거리",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "d582d202-e897-413a-af18-8910d63a141e"
                     }
                   ],
                   "blockId": "d582d202-e897-413a-af18-8910d63a141e",
@@ -1346,7 +1355,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a16865-fe1e-77e4-8f04-3729c0a6a91b/nearby_attractions_about/1792752882806-ubaqo6qh52.webp",
                       "sortOrder": 3,
                       "description": "위치 : 카라반에서 약 18.1km, 차량 약 29분 거리",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "59ce0191-4277-4bb7-a88a-05a20b67be21"
                     }
                   ],
                   "blockId": "59ce0191-4277-4bb7-a88a-05a20b67be21",
@@ -1360,7 +1370,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a16865-fe1e-77e4-8f04-3729c0a6a91b/nearby_attractions_about/1792752883018-kp2ybp2q7h.webp",
                       "sortOrder": 4,
                       "description": "위치 : 카라반에서 약 20.6km, 차량 약 30분 거리",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "bc80ebcc-be4d-445b-8d7e-fbc1a76421a8"
                     }
                   ],
                   "blockId": "bc80ebcc-be4d-445b-8d7e-fbc1a76421a8",
@@ -1374,7 +1385,8 @@
                       "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a16865-fe1e-77e4-8f04-3729c0a6a91b/nearby_attractions_about/1792752883047-yr2dp64jeo.webp",
                       "sortOrder": 5,
                       "description": "위치 : 카라반에서 약 24.3km, 차량 약 33분 거리",
-                      "isSelected": true
+                      "isSelected": true,
+                      "blockId": "b73960e3-f447-43ee-a272-ddfa99258c7c"
                     }
                   ],
                   "blockId": "b73960e3-f447-43ee-a272-ddfa99258c7c",
@@ -1436,7 +1448,8 @@
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a16865-fe1e-77e4-8f04-3729c0a6a91b/popup/1792752883361-fir31heoa9.webp",
                 "sortOrder": 0,
                 "description": "",
-                "isSelected": true
+                "isSelected": true,
+                "blockId": "b0211c6b-94b6-4e7d-8b65-c4172f65dcaf"
               }
             ],
             "slider": false,
@@ -1457,7 +1470,8 @@
                 "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a16865-fe1e-77e4-8f04-3729c0a6a91b/popup/1792752883390-ocg6hymiz8.webp",
                 "sortOrder": 1,
                 "description": "",
-                "isSelected": true
+                "isSelected": true,
+                "blockId": "cd38c64e-dba9-4afe-9b15-b4e4bb6d6e7a"
               }
             ],
             "slider": false,
@@ -1838,6 +1852,10 @@
           ],
           "nameEn": "",
           "groupName": ""
+        },
+        {
+          "id": "15deec39-7f57-46b6-a43c-be62681d407b",
+          "images": [ ]
         }
       ],
       "footer": {
